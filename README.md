@@ -11,7 +11,7 @@ This is the workspace for my Engineering Mathematics homework submissions.
 ## Homework and Mid-term Report 
 
 ### 2026/04/20 homework 1
-project:[HW1.md](HW1.md)
+project: [HW1.md](HW1.md)
 
 ### 2026/04/20 mid-term report
-project:[Mid-term Report.md](Mid-term Report.md)
+project: [Mid-term Report.md](Mid-term Report.md)
